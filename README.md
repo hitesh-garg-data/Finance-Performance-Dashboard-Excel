@@ -21,10 +21,10 @@ The dashboard supports dynamic interactivity using **Slicers** for:
 
 ## 📁 Project Files
 - **Excel Dashboard (.xlsx)**  
-  [[Finance_Dashboard_v1.xlsx](https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel/blob/main/Finance_Dashboard_v1.xlsx)
+  [Finance_Dashboard_v1.xlsx](https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel/blob/main/Finance_Dashboard_v1.xlsx)
 
 - **Dashboard PDF (Portfolio Snapshot)**  
-  [[Finance_Dashboard_v1.pdf](https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel/blob/main/Finance_Dashboard_v1.pdf)
+  [Finance_Dashboard_v1.pdf](https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel/blob/main/Finance_Dashboard_v1.pdf)
 
 - **Dashboard Screenshot (.png)**  
   [Finance_Dashboard_v1.png](https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel/blob/main/Finance_Dashboard_v1.png)
