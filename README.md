@@ -19,6 +19,17 @@ The dashboard supports dynamic interactivity using **Slicers** for:
 
 ---
 
+## 🎯 Decision Context
+This Excel dashboard is designed to support high-level profitability review and cost diagnostics, enabling management to identify margin pressure, expense-heavy segments, and regions requiring deeper investigation.
+
+---
+
+## 🚫 Scope & Limitations
+This analysis is based on historical financial data and descriptive metrics.  
+It does not perform forecasting, scenario simulation, or prescriptive strategy recommendations.
+
+---
+
 ## 📁 Project Files
 - **Excel Dashboard (.xlsx)**  
   [Finance_Dashboard_v1.xlsx](https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel/blob/main/Finance_Dashboard_v1.xlsx)
@@ -41,7 +52,7 @@ The dashboard supports dynamic interactivity using **Slicers** for:
 ### 🟫 Discount Impact
 - High & Medium discounts → best profit margins.  
 - No-discount group shows lowest margins (~31%).  
-- Discounts boost profitable volume.
+- Discounts appear to support higher-volume profitability within certain discount bands.
 
 ### 🔵 Revenue & Profit Trends
 - Q4 is the strongest quarter in both 2013 & 2014.  
@@ -70,7 +81,7 @@ The dashboard supports dynamic interactivity using **Slicers** for:
 - Dashboard Layouting  
 - KPI Cards  
 - Cross-filtering with slicers  
-- Business analysis & storytelling
+- Decision-oriented financial analysis
 
 ---
 
@@ -81,4 +92,5 @@ https://www.notion.so/Portfolio-Hitesh-Garg-Data-Analytics-Journey-2a9e7a66bd438
 ---
 
 ⭐ **Created by Hitesh Garg**  
-Aspiring Data Analyst → Finance Data Scientist
+Finance & Business Data Analyst
+
